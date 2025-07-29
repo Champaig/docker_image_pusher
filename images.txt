@@ -1,2 +1,2 @@
 mariadb:lts
-gluster-centos
+gluster/glusterfs

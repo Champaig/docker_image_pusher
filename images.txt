@@ -1,1 +1,1 @@
-gluster/glusterfs
+gluster/gluster-centos

@@ -1,1 +1,1 @@
-gluster/gluster-centos
+openeuler/openeuler:22.03-aarch64
